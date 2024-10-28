@@ -95,7 +95,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="415.72173913043474,116.03478260869565" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[string.Format(&quot;&quot;&quot;First GIT Test&quot;&quot;&quot;)]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="415.72173913043474,116.03478260869565" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[string.Format(&quot;&quot;&quot;2nd Git test&quot;&quot;&quot;)]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="415.72173913043474,163.61739130434782" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;Hello_World&quot;]" />
   </ueab:SequenceX>
 </Activity>
